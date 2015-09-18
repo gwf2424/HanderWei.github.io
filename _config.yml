@@ -4,11 +4,11 @@ email: hander_wei@163.com
 description: "Chen Wei's Blog"
 baseurl: ""
 url: "http://chen-wei.me/"
-title_description: "USTC; Android开发者; 谷粉"
+title_description: "USTC Students; Android Application Developer; Teac Fan ; Boring Man"
 title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
 google_analytics: "UA-20365477-4"
-disqus_account: cartenoire
-github_repository: https://github.com/jacobtomlinson/carte-noire
+disqus_account: handerwei
+github_repository: https://github.com/HanderWei/HanderWei.github.io
 addthis_id: ra-513c6fa83da6ec67
 post_limit: 5				
 
@@ -18,8 +18,8 @@ weibo_link: http://weibo.com/u/1886147631
 stackoverflow_link: http://stackoverflow.com/users/4470672/user4470672?tab=profile
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"http://weibo.com/u/1886147631\">陈威</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/HanderWei/\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
 markdown: redcarpet
